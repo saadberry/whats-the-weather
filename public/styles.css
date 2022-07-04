@@ -1,0 +1,53 @@
+*{
+    background-color: black;
+    color:beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main{
+    position: relative;
+    left:700px;
+    top:250px;
+    width: 600px;
+    
+}
+#header{
+    position: relative;
+    left:25px;
+}
+#btn {
+    background-color: #ffffff; /* Green */
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: relative;
+    right:30px;
+  }
+
+input[type=text], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    position:relative;
+    right: 40px;
+  }
+  
+
+h1{
+    font-weight: 2px;
+    font-size:200%;
+    justify-content: center;
+}
+
+#displayResult{
+    position: relative;
+    right:120px;
+}
